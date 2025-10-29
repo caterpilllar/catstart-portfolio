@@ -9,9 +9,9 @@
 /* variables */
 :root {
   /* Colors */
-  --primary-color: #ffcd42;
-  --secondary-color: #ffd35c;
-  --bg-primary: #ffffff;
+  --primary-color: #7EA9B6;
+  --secondary-color: #aadce2;
+  --bg-primary: #EAF7F8;
   --text-color: #222222;
   --text-color-two: #ffffff;
   --bg-secondary: #000000;
@@ -105,7 +105,7 @@ body {
 
 .navbar #logo img {
   display: block;
-  width: 40px;
+  width: 60px;
 }
 
 .navbar .btn {
@@ -162,6 +162,8 @@ body {
   background-color: var(--card-background);
   margin: 5.5rem 0;
 }
+
+
 /* Projects */
 #projects {
   display: flex;

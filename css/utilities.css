@@ -103,6 +103,18 @@ h2::selection {
   max-width: 700px;
 }
 
+/* photo cards */
+.photo-card {
+  padding: 1rem;
+  background: var(--card-background);
+  color: #ffffff;
+  border-radius: 5px;
+  transition: 0.4s ease-in-out;
+  cursor: pointer;
+}
+
+
+
 /* Project cards */
 .card {
   padding: 1rem;
@@ -163,6 +175,14 @@ h2::selection {
 .card:nth-child(6) {
   background: url(../assets/project/project-six.png) center center/cover;
 }
+
+
+/* Photos */
+.photo-card:nth-child(1) {
+  background: url(../assets/photos/shader\ 431\ project.png) center center/cover;
+}
+
+
 
 /* Media Queries */
 @media (max-width: 768px) {
