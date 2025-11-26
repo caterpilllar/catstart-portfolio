@@ -177,9 +177,40 @@ h2::selection {
 }
 
 
-/* Photos */
-.photo-card:nth-child(1) {
-  background: url(../assets/photos/shader\ 431\ project.png) center center/cover;
+
+/* Purcell Images */
+
+/* Purcell 1 */
+.card-purcell:nth-child(1):nth-child(1) {
+  background: url(../assets/purcell/purcell-one.png) center center/cover;
+}
+
+/* Purcell 2 */
+.card-purcell:nth-child(2) {
+  background: url(../assets/purcell/purcell-two.png) center center/cover;
+}
+
+/* Purcell 3 */
+.card-purcell:nth-child(3) {
+  background: url(../assets/project/project-three.png) center center/cover;
+}
+
+
+/* DIG Images */
+
+/* DIG 1 */
+.card-dig:nth-child(1) {
+  background: url(../assets/dig/dig-one.png) center center/cover;
+}
+
+/* DIG 2 */
+.card-dig:nth-child(2) {
+  background: url(../assets/dig/dig-two.png) center center/cover;
+}
+
+/* DIG 3 */
+.card-dig:nth-child(3) {
+  background: url(../assets/dig/dig-three.png) center center/cover;
 }
 
 
