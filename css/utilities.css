@@ -213,6 +213,23 @@ h2::selection {
   background: url(../assets/dig/dig-three.png) center center/cover;
 }
 
+/* Hamster Havoc Images */
+
+/* HH 1 */
+.card-pthree:nth-child(1):nth-child(1) {
+  background: url(../assets/hamster\ havoc/hh-one.gif) center center/cover;
+}
+
+/* HH 2 */
+.card-pthree:nth-child(2) {
+  background: url(../assets/hamster\ havoc/hh-two.png) center center/cover;
+}
+
+/* HH 3 */
+.card-pthree:nth-child(3) {
+  background: url(../assets/hamster\ havoc/hh-three.gif) center center/cover;
+}
+
 
 
 /* Media Queries */
